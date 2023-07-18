@@ -8,7 +8,7 @@ image:
   repository: todaywasawesome/my-app-image
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: f814e19
+  tag: 30de96c
 
 
 
